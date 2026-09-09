@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "popups": [
+    {
+      "id": "popup-1788963701505-om5c7",
+      "label": "Popup 1",
+      "title": "Vilket kaffe föredrar du?",
+      "body": "Vilket kaffe du väljer är helt avgörande ifall du blir anställd eller ej.",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 16,
+        "body": 12,
+        "options": 12
+      },
+      "position": [
+        3597,
+        1691
+      ],
+      "activationArea": [
+        [
+          3446,
+          1964
+        ],
+        [
+          3933,
+          1822
+        ],
+        [
+          4147,
+          1941
+        ],
+        [
+          3655,
+          2084
+        ]
+      ],
+      "options": [
+        {
+          "id": "option-1788963791903-0d8kc",
+          "kind": "alternative",
+          "label": "SNUTKAFFE"
+        },
+        {
+          "id": "option-1788963805944-t5hp0",
+          "kind": "alternative",
+          "label": "FINKAFFE"
+        },
+        {
+          "id": "option-1788963814635-wrlnl",
+          "kind": "alternative",
+          "label": "Jag dricker inte kaffe..."
+        },
+        {
+          "id": "option-1788965667302-ijmor",
+          "kind": "alternative",
+          "label": "Té tack!"
+        }
+      ]
+    },
+    {
+      "id": "popup-1788965702035-l3ip5",
+      "label": "Popup 2",
+      "title": "Hur gammal är du?",
+      "body": "",
+      "optionLayout": "checklist",
+      "approvalLabel": "Send",
+      "fontSizes": {
+        "title": 14,
+        "body": 10,
+        "options": 12
+      },
+      "position": [
+        3485,
+        2444
+      ],
+      "activationArea": [
+        [
+          3513,
+          2586
+        ],
+        [
+          3936,
+          2423
+        ],
+        [
+          4240,
+          2553
+        ],
+        [
+          3781,
+          2722
+        ]
+      ],
+      "options": [
+        {
+          "id": "option-1788965766107-fewk1",
+          "kind": "alternative",
+          "label": "0-10"
+        },
+        {
+          "id": "option-1788965772114-9s0cq",
+          "kind": "alternative",
+          "label": "11-20"
+        },
+        {
+          "id": "option-1788965777634-a13j5",
+          "kind": "alternative",
+          "label": "21-80"
+        }
+      ]
+    }
+  ]
+}

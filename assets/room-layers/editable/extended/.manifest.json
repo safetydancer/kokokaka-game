@@ -1,0 +1,48 @@
+{
+  "black-desk-chair": {
+    "id": "black-desk-chair",
+    "label": "Black desk chair",
+    "created": true,
+    "extendedX": 4992,
+    "extendedY": 1133,
+    "extendedWidth": 765,
+    "extendedHeight": 630,
+    "extendedMaskSrc": "/assets/room-layers/editable/extended/black-desk-chair/mask.png",
+    "extendedMaskPreviewSrc": "/assets/room-layers/editable/extended/black-desk-chair/preview.png",
+    "extendedFullMaskSrc": "/assets/room-layers/editable/extended/black-desk-chair/full-mask.png"
+  },
+  "printer": {
+    "id": "printer",
+    "label": "Printer",
+    "created": true,
+    "extendedX": 1345,
+    "extendedY": 2087,
+    "extendedWidth": 757,
+    "extendedHeight": 802,
+    "extendedMaskSrc": "/assets/room-layers/editable/extended/printer/mask.png",
+    "extendedMaskPreviewSrc": "/assets/room-layers/editable/extended/printer/preview.png",
+    "extendedFullMaskSrc": "/assets/room-layers/editable/extended/printer/full-mask.png",
+    "extendedFrontBoundary": [
+      [1360, 2740],
+      [1550, 2885],
+      [2095, 2735]
+    ]
+  },
+  "hylla-printer": {
+    "id": "hylla-printer",
+    "label": "Hylla printer",
+    "created": true,
+    "extendedX": 470,
+    "extendedY": 2102,
+    "extendedWidth": 753,
+    "extendedHeight": 1108,
+    "extendedMaskSrc": "/assets/room-layers/editable/extended/hylla-printer/mask.png",
+    "extendedMaskPreviewSrc": "/assets/room-layers/editable/extended/hylla-printer/preview.png",
+    "extendedFullMaskSrc": "/assets/room-layers/editable/extended/hylla-printer/full-mask.png",
+    "extendedFrontBoundary": [
+      [480, 3050],
+      [650, 3205],
+      [1215, 3050]
+    ]
+  }
+}
