@@ -8,54 +8,14 @@
       "body": "Vilket kaffe du väljer är helt avgörande ifall du blir anställd eller ej.",
       "optionLayout": "boxes",
       "approvalLabel": "Approve",
-      "fontSizes": {
-        "title": 16,
-        "body": 12,
-        "options": 12
-      },
-      "position": [
-        3597,
-        1691
-      ],
-      "activationArea": [
-        [
-          3446,
-          1964
-        ],
-        [
-          3933,
-          1822
-        ],
-        [
-          4147,
-          1941
-        ],
-        [
-          3655,
-          2084
-        ]
-      ],
+      "fontSizes": { "title": 16, "body": 12, "options": 12 },
+      "position": [3693, 1604],
+      "activationArea": [[3446, 1964], [3933, 1822], [4147, 1941], [3655, 2084]],
       "options": [
-        {
-          "id": "option-1788963791903-0d8kc",
-          "kind": "alternative",
-          "label": "SNUTKAFFE"
-        },
-        {
-          "id": "option-1788963805944-t5hp0",
-          "kind": "alternative",
-          "label": "FINKAFFE"
-        },
-        {
-          "id": "option-1788963814635-wrlnl",
-          "kind": "alternative",
-          "label": "Jag dricker inte kaffe..."
-        },
-        {
-          "id": "option-1788965667302-ijmor",
-          "kind": "alternative",
-          "label": "Té tack!"
-        }
+        { "id": "option-1788963791903-0d8kc", "kind": "alternative", "label": "SNUTKAFFE" },
+        { "id": "option-1788963805944-t5hp0", "kind": "alternative", "label": "FINKAFFE" },
+        { "id": "option-1788963814635-wrlnl", "kind": "alternative", "label": "Jag dricker inte kaffe..." },
+        { "id": "option-1788965667302-ijmor", "kind": "alternative", "label": "Té tack!" }
       ]
     },
     {
@@ -71,8 +31,8 @@
         "options": 12
       },
       "position": [
-        3485,
-        2444
+        3655,
+        1955
       ],
       "activationArea": [
         [
