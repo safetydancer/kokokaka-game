@@ -1,0 +1,155 @@
+{
+  "sourceWidth": 6000,
+  "sourceHeight": 3000,
+  "sourceCrop": {
+    "x": 1970,
+    "y": 2400,
+    "width": 300,
+    "height": 380
+  },
+  "sprite": {
+    "sourceLeft": 94,
+    "sourceTop": 229,
+    "width": 38,
+    "height": 82,
+    "anchorX": 0.4473684210526316,
+    "anchorY": 0.9512195121951219
+  },
+  "frames": [
+    "/assets/animation-lab/plant-frame-0.png",
+    "/assets/animation-lab/plant-frame-1.png",
+    "/assets/animation-lab/plant-frame-2.png",
+    "/assets/animation-lab/plant-frame-3.png",
+    "/assets/animation-lab/plant-frame-4.png",
+    "/assets/animation-lab/plant-frame-5.png",
+    "/assets/animation-lab/plant-frame-6.png"
+  ],
+  "framePhases": [
+    0.0,
+    0.8975979010256552,
+    1.7951958020513104,
+    2.6927937030769655,
+    3.5903916041026207,
+    4.487989505128276,
+    5.385587406153931
+  ],
+  "maskFrames": [
+    "/assets/animation-lab/plant-mask-frame-0.png",
+    "/assets/animation-lab/plant-mask-frame-1.png",
+    "/assets/animation-lab/plant-mask-frame-2.png",
+    "/assets/animation-lab/plant-mask-frame-3.png",
+    "/assets/animation-lab/plant-mask-frame-4.png",
+    "/assets/animation-lab/plant-mask-frame-5.png",
+    "/assets/animation-lab/plant-mask-frame-6.png"
+  ],
+  "cleanPlate": "/assets/animation-lab/plant-clean-plate-lossless.png",
+  "roomCleanPlate": "/assets/animation-lab/room-clean-plate-lossless.png",
+  "roomFrames": [
+    "/assets/animation-lab/plant-room-frame-0.png",
+    "/assets/animation-lab/plant-room-frame-1.png",
+    "/assets/animation-lab/plant-room-frame-2.png",
+    "/assets/animation-lab/plant-room-frame-3.png",
+    "/assets/animation-lab/plant-room-frame-4.png",
+    "/assets/animation-lab/plant-room-frame-5.png",
+    "/assets/animation-lab/plant-room-frame-6.png"
+  ],
+  "roomBenchMask": "/assets/room-layers/watering-bench-foreground-animated-mask.png",
+  "differenceImage": "/assets/animation-lab/plant-clean-plate-difference.png",
+  "sourceCropImage": "/assets/animation-lab/plant-source-crop.png",
+  "benchCrop": {
+    "x": 1972,
+    "y": 2410,
+    "width": 809,
+    "height": 587,
+    "image": "/assets/animation-lab/watering-bench-source-crop.png"
+  },
+  "combinedForegroundFrames": [
+    "/assets/animation-lab/watering-bench-combined-frame-0.png",
+    "/assets/animation-lab/watering-bench-combined-frame-1.png",
+    "/assets/animation-lab/watering-bench-combined-frame-2.png",
+    "/assets/animation-lab/watering-bench-combined-frame-3.png",
+    "/assets/animation-lab/watering-bench-combined-frame-4.png",
+    "/assets/animation-lab/watering-bench-combined-frame-5.png",
+    "/assets/animation-lab/watering-bench-combined-frame-6.png"
+  ],
+  "combinedMaskFrames": [
+    "/assets/animation-lab/watering-bench-combined-mask-0.png",
+    "/assets/animation-lab/watering-bench-combined-mask-1.png",
+    "/assets/animation-lab/watering-bench-combined-mask-2.png",
+    "/assets/animation-lab/watering-bench-combined-mask-3.png",
+    "/assets/animation-lab/watering-bench-combined-mask-4.png",
+    "/assets/animation-lab/watering-bench-combined-mask-5.png",
+    "/assets/animation-lab/watering-bench-combined-mask-6.png"
+  ],
+  "bendSettings": {
+    "duration": 2.3,
+    "movement": 10,
+    "bendPoints": [
+      {
+        "id": "base",
+        "label": "Base",
+        "position": 0,
+        "horizontal": 0,
+        "vertical": 0,
+        "rotation": 0,
+        "speed": 1,
+        "phase": 0
+      },
+      {
+        "id": "lower",
+        "label": "Lower",
+        "position": 25,
+        "horizontal": 28,
+        "vertical": 12,
+        "rotation": 4,
+        "speed": 0.9,
+        "phase": -12
+      },
+      {
+        "id": "middle",
+        "label": "Middle",
+        "position": 62,
+        "horizontal": 200,
+        "vertical": 36,
+        "rotation": 8,
+        "speed": 0,
+        "phase": 8
+      },
+      {
+        "id": "upper",
+        "label": "Upper",
+        "position": 82,
+        "horizontal": 78,
+        "vertical": 13,
+        "rotation": -8,
+        "speed": 0,
+        "phase": 4
+      },
+      {
+        "id": "tip",
+        "label": "Tip",
+        "position": 100,
+        "horizontal": 200,
+        "vertical": 200,
+        "rotation": -30,
+        "speed": 0,
+        "phase": 13
+      }
+    ],
+    "motionLink": {
+      "strength": 72,
+      "delay": 24
+    },
+    "animateMask": true
+  },
+  "validation": {
+    "changedPixelsOutsideRepairArea": 0,
+    "changedPixelsInsideRepairArea": 2100,
+    "repairArea": [
+      97,
+      227,
+      125,
+      313
+    ]
+  }
+}
