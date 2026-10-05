@@ -4,8 +4,8 @@
     {
       "id": "popup-1788963701505-om5c7",
       "label": "Popup 1",
-      "title": "How do you take your coffee?",
-      "body": "Pick your poison",
+      "title": "Välj kaffe",
+      "body": "",
       "optionLayout": "boxes",
       "approvalLabel": "Approve",
       "fontSizes": {
@@ -47,22 +47,12 @@
         {
           "id": "option-1788963791903-0d8kc",
           "kind": "alternative",
-          "label": "HOT! but damn good."
+          "label": "finkaffe"
         },
         {
           "id": "option-1788963805944-t5hp0",
           "kind": "alternative",
-          "label": "I like the fermented funky stuff"
-        },
-        {
-          "id": "option-1788963814635-wrlnl",
-          "kind": "alternative",
-          "label": "I don't drink coffee"
-        },
-        {
-          "id": "option-1788965667302-ijmor",
-          "kind": "alternative",
-          "label": "I drink it with tea and milk. minus coffee"
+          "label": "snutkaffe"
         }
       ]
     },
