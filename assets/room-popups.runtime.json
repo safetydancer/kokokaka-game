@@ -4,8 +4,8 @@
     {
       "id": "popup-1788963701505-om5c7",
       "label": "Popup 1",
-      "title": "Välj kaffe",
-      "body": "",
+      "title": "Vilket kaffe föredrar du?",
+      "body": "Vilket kaffe du väljer är helt avgörande ifall du blir anställd eller ej.",
       "optionLayout": "boxes",
       "approvalLabel": "Approve",
       "fontSizes": {
@@ -47,12 +47,22 @@
         {
           "id": "option-1788963791903-0d8kc",
           "kind": "alternative",
-          "label": "finkaffe"
+          "label": "SNUTKAFFE"
         },
         {
           "id": "option-1788963805944-t5hp0",
           "kind": "alternative",
-          "label": "snutkaffe"
+          "label": "FINKAFFE"
+        },
+        {
+          "id": "option-1791278327786-62pp2",
+          "kind": "alternative",
+          "label": "Jag dricker inte kaffe..."
+        },
+        {
+          "id": "option-1791278335769-ojf2h",
+          "kind": "alternative",
+          "label": "Té tack!"
         }
       ]
     },
