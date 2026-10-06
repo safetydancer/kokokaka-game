@@ -4,8 +4,8 @@
     {
       "id": "popup-1788963701505-om5c7",
       "label": "Popup 1",
-      "title": "Vilket kaffe föredrar du?",
-      "body": "Vilket kaffe du väljer är helt avgörande ifall du blir anställd eller ej.",
+      "title": "How do you take your coffee?",
+      "body": "Pick your poison",
       "optionLayout": "boxes",
       "approvalLabel": "Approve",
       "fontSizes": {
@@ -47,22 +47,22 @@
         {
           "id": "option-1788963791903-0d8kc",
           "kind": "alternative",
-          "label": "SNUTKAFFE"
+          "label": "HOT! but damn good."
         },
         {
           "id": "option-1788963805944-t5hp0",
           "kind": "alternative",
-          "label": "FINKAFFE"
+          "label": "I like the fermented funky stuff"
         },
         {
           "id": "option-1791278327786-62pp2",
           "kind": "alternative",
-          "label": "Jag dricker inte kaffe..."
+          "label": "I don't drink coffee"
         },
         {
           "id": "option-1791278335769-ojf2h",
           "kind": "alternative",
-          "label": "Té tack!"
+          "label": "I drink it with tea and milk. minus coffee"
         }
       ]
     },
