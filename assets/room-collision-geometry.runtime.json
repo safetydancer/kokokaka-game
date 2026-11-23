@@ -1209,6 +1209,118 @@
           2783
         ]
       ]
+    },
+    {
+      "id": "stair-gallery-wall",
+      "label": "Mural and print wall beside the stairs",
+      "points": [
+        [
+          7350,
+          1103
+        ],
+        [
+          10098,
+          1774
+        ],
+        [
+          10092,
+          1777
+        ],
+        [
+          7356,
+          1109
+        ]
+      ],
+      "frontBoundary": [
+        [
+          7210,
+          1069
+        ],
+        [
+          7350,
+          1103
+        ],
+        [
+          10098,
+          1774
+        ]
+      ]
+    },
+    {
+      "id": "clothing-rack-and-shelf",
+      "label": "Clothing rack and shelf",
+      "points": [
+        [
+          5456,
+          2250
+        ],
+        [
+          5698,
+          2327
+        ],
+        [
+          5768,
+          2377
+        ],
+        [
+          5825,
+          2390
+        ],
+        [
+          5880,
+          2372
+        ],
+        [
+          5946,
+          2374
+        ],
+        [
+          5985,
+          2360
+        ],
+        [
+          6039,
+          2341
+        ],
+        [
+          5602,
+          2197
+        ]
+      ],
+      "frontBoundary": [
+        [
+          5459,
+          2253
+        ],
+        [
+          5698,
+          2327
+        ],
+        [
+          5768,
+          2377
+        ],
+        [
+          5825,
+          2390
+        ],
+        [
+          5880,
+          2372
+        ],
+        [
+          5946,
+          2374
+        ],
+        [
+          5985,
+          2360
+        ],
+        [
+          6039,
+          2341
+        ]
+      ]
     }
   ],
   "corridors": [
@@ -1552,6 +1664,8 @@
     "lounge-terrarium-coffee-table",
     "mustard-swivel-chair",
     "lounge-electronic-keyboard",
-    "studio-workstation-group"
+    "studio-workstation-group",
+    "stair-gallery-wall",
+    "clothing-rack-and-shelf"
   ]
 }
