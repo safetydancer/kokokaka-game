@@ -19,28 +19,28 @@
       ],
       "activationArea": [
         [
-          3446,
-          1964
+          2677,
+          265
         ],
         [
-          3933,
-          1822
+          2992,
+          221
         ],
         [
-          4147,
-          1941
+          3076,
+          320
         ],
         [
-          4146,
-          2180
+          3042,
+          430
         ],
         [
-          3650,
-          2330
+          2980,
+          500
         ],
         [
-          3434,
-          2215
+          2823,
+          514
         ]
       ],
       "options": [
@@ -84,32 +84,32 @@
       ],
       "activationArea": [
         [
-          3513,
-          2586
+          2436,
+          477
         ],
         [
-          4099,
-          2375
+          2566,
+          438
         ],
         [
-          4355,
-          2510
+          2734,
+          603
         ],
         [
-          4362,
-          2743
+          2876,
+          718
         ],
         [
-          4091,
-          2872
+          2795,
+          770
         ],
         [
-          3769,
-          3042
+          2641,
+          770
         ],
         [
-          3571,
-          2824
+          2470,
+          600
         ]
       ],
       "options": [
@@ -127,6 +127,1640 @@
           "id": "option-1788965777634-a13j5",
           "kind": "alternative",
           "label": "31-40"
+        }
+      ]
+    },
+    {
+      "id": "popup-1795508775559-63feu",
+      "label": "Thought 1",
+      "title": "New popup",
+      "body": "I wonder whats for dinner today",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2769,
+        2519
+      ],
+      "activationArea": [
+        [
+          2670,
+          2462
+        ],
+        [
+          2857,
+          2452
+        ],
+        [
+          2855,
+          2543
+        ],
+        [
+          2668,
+          2534
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795510110826-j603c",
+      "label": "Thought 2",
+      "title": "New popup",
+      "body": "Green.. no blue! aaaahhh!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        3273,
+        2628
+      ],
+      "activationArea": [
+        [
+          3283,
+          2684
+        ],
+        [
+          3491,
+          2657
+        ],
+        [
+          3524,
+          2801
+        ],
+        [
+          3336,
+          2835
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "I definitely could jump over this.. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Grog refilling container. For plants.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "I've jumped over twice as large green watering cans.",
+          "durationSeconds": 4
+        }
+      ]
+    },
+    {
+      "id": "popup-1795510436880-bxzeo",
+      "label": "Thought 3",
+      "title": "New popup",
+      "body": "Physics are amazing.. stay in school kids!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2285,
+        2381
+      ],
+      "activationArea": [
+        [
+          2228,
+          2018
+        ],
+        [
+          2586,
+          2082
+        ],
+        [
+          2527,
+          2626
+        ],
+        [
+          2175,
+          2559
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Who thought this was good way to place a leaning plank?",
+          "durationSeconds": 4
+        },
+        {
+          "body": "A plank should be walked on, not leaned in a weird way.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Weird leaning plank..",
+          "durationSeconds": 3
+        },
+        {
+          "body": "In what angle would you lean, if you were a plank?",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Lean mean chilling.. plank.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "I wonder if there is a plank in a parallell non pixelated non 8bit universe leaning in a similarly weird angle like this plank does..",
+          "durationSeconds": 8
+        },
+        {
+          "body": "This plank has no respect for geometry.",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795510817168-u9qhh",
+      "label": "Thought 4",
+      "title": "New popup",
+      "body": "A normal leaning plank.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        3191,
+        2372
+      ],
+      "activationArea": [
+        [
+          3011,
+          2251
+        ],
+        [
+          3140,
+          2238
+        ],
+        [
+          3228,
+          2579
+        ],
+        [
+          3101,
+          2618
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "This plank looks normal.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Balanced.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Look at you, leaning regularly.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Lean.",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795511770758-4dxg9",
+      "label": "Thought 5",
+      "title": "New popup",
+      "body": "Human Motif.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4910,
+        1860
+      ],
+      "activationArea": [
+        [
+          4483,
+          1718
+        ],
+        [
+          5045,
+          1567
+        ],
+        [
+          5040,
+          1813
+        ],
+        [
+          4481,
+          1981
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Ah, blue and white! The beautiful colours of Finland and Greece.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "By Poseidon, this is a nice shade of blue!",
+          "durationSeconds": 4
+        },
+        {
+          "body": "'Humanotif' ... must be Greek.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795511819559-s3r2j",
+      "label": "Thought 6",
+      "title": "New popup",
+      "body": "I've seen larger boots.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 250,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5464,
+        2102
+      ],
+      "activationArea": [
+        [
+          5786,
+          2230
+        ],
+        [
+          5895,
+          2233
+        ],
+        [
+          5883,
+          2384
+        ],
+        [
+          5752,
+          2346
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Not even the second larges boots I've ever seen.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "I find these boots have a non realistic scale.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Should be bigger. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Size 37.. at most.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Too small for me.",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795512081605-1eq5n",
+      "label": "Thought 7",
+      "title": "New popup",
+      "body": "not six seven",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4656,
+        2327
+      ],
+      "activationArea": [
+        [
+          4543,
+          2295
+        ],
+        [
+          4628,
+          2281
+        ],
+        [
+          4639,
+          2391
+        ],
+        [
+          4552,
+          2408
+        ]
+      ],
+      "options": [],
+      "additionalMessages": []
+    },
+    {
+      "id": "popup-1795512146344-fxc6i",
+      "label": "Thought 8",
+      "title": "New popup",
+      "body": "Yaaaaarn",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4164,
+        2282
+      ],
+      "activationArea": [
+        [
+          4255,
+          2254
+        ],
+        [
+          4380,
+          2226
+        ],
+        [
+          4527,
+          2317
+        ],
+        [
+          4390,
+          2381
+        ]
+      ],
+      "options": [],
+      "additionalMessages": []
+    },
+    {
+      "id": "popup-1795512172454-01qqf",
+      "label": "Thought 9",
+      "title": "New popup",
+      "body": "Someone important works here, for sure!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        3862,
+        2074
+      ],
+      "activationArea": [
+        [
+          3455,
+          1952
+        ],
+        [
+          3940,
+          1822
+        ],
+        [
+          4164,
+          1928
+        ],
+        [
+          3662,
+          2078
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "The desk of someone who knows their business. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Businessy.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "I just got a sudden urge to check my LinkedIn feed.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Classy!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Classic!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "I bet this is the kind of desk that racing driver Lance Stroll would have in his office.",
+          "durationSeconds": 6
+        },
+        {
+          "body": "This desk deserves a Chesterfield leather armchair next to it.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Something smells fishy.. or clamy?",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795512708967-7u781",
+      "label": "Thought 10",
+      "title": "New popup",
+      "body": "Wiggle wiggle.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2811,
+        2704
+      ],
+      "activationArea": [
+        [
+          2989,
+          2867
+        ],
+        [
+          3051,
+          2860
+        ],
+        [
+          3063,
+          2958
+        ],
+        [
+          2972,
+          2975
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Wiggly.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Green and wiggly.",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795513919620-r8tm5",
+      "label": "Thought 11",
+      "title": "New popup",
+      "body": "The home of Ben Baker. Illustrator. ",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4290,
+        1793
+      ],
+      "activationArea": [
+        [
+          7188,
+          1664
+        ],
+        [
+          7399,
+          1716
+        ],
+        [
+          7173,
+          1821
+        ],
+        [
+          6948,
+          1755
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "The home of Ben Baker. Illustrator and more..",
+          "durationSeconds": 3
+        },
+        {
+          "body": "The home of Ben Baker. The frontman of the band Ben Baker and The Body Builders.",
+          "durationSeconds": 5
+        },
+        {
+          "body": "The home of Ben Baker. Baker of cakes.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "The home of Ben Baker. Animator of things animated.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "The home of Ben Baker. Englishman.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "The home of Ben Baker. Owner of the webpage ben.se",
+          "durationSeconds": 4
+        },
+        {
+          "body": "The home of Ben Baker. Clint Eastwood lookalike.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "The home of Ben Baker. Ben-l the fenn-l.",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795514326842-4vwv3",
+      "label": "Thought 12",
+      "title": "New popup",
+      "body": "1, 2, 3... Draw!  *pew* ",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4290,
+        1863
+      ],
+      "activationArea": [
+        [
+          6433,
+          1727
+        ],
+        [
+          6664,
+          1794
+        ],
+        [
+          6669,
+          2082
+        ],
+        [
+          6423,
+          2018
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "You feelin' lucky, punk!?",
+          "durationSeconds": 3
+        },
+        {
+          "body": "This drawer ain't big enough for both of us..",
+          "durationSeconds": 4
+        },
+        {
+          "body": "A drawer for drawings. Clever.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "In swedish it's called a 'hurtsch'",
+          "durationSeconds": 3
+        },
+        {
+          "body": "You've drawn your last breath!",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795515310531-u27tb",
+      "label": "Thought 13",
+      "title": "New popup",
+      "body": "Plantastic!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 250,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2935,
+        2389
+      ],
+      "activationArea": [
+        [
+          2744,
+          1938
+        ],
+        [
+          2999,
+          1871
+        ],
+        [
+          3063,
+          2002
+        ],
+        [
+          2726,
+          2099
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Hello there plants. Keep up the good work supplying our planet with oxygen.",
+          "durationSeconds": 5
+        },
+        {
+          "body": "Jogreen, Jogreen, Jogreeeeen!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Green, with a tint of green.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Grrrrrreen.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Green plants.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795515811746-qh7m1",
+      "label": "Thought 14",
+      "title": "New popup",
+      "body": "Would you know.. this is the home of 'The money plant', that once resided in famous 'The Eames House' in Los Angeles. Now it lives on Ringön.",
+      "kind": "thought",
+      "durationSeconds": 8,
+      "interactionDistance": 250,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2507,
+        1893
+      ],
+      "activationArea": [
+        [
+          2179,
+          1468
+        ],
+        [
+          2328,
+          1460
+        ],
+        [
+          2325,
+          1821
+        ],
+        [
+          2180,
+          1814
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "A tiny greenhouse. And also a lamp! Neat.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "You light up my day, lamp.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795516124609-qgas9",
+      "label": "Thought 15",
+      "title": "New popup",
+      "body": "Hrmm.. out of ink.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2059,
+        2628
+      ],
+      "activationArea": [
+        [
+          1402,
+          2327
+        ],
+        [
+          1973,
+          2209
+        ],
+        [
+          2088,
+          2472
+        ],
+        [
+          1390,
+          2607
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Needs cleaning.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Error. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Someone should move this piece of junk.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Anyone interested in buying a professional photo printer that is in need of maintainence? Contact Anna at Kokokaka",
+          "durationSeconds": 6
+        },
+        {
+          "body": "Plastic.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Not even the second largest printer I've ever seen.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "I'll have the coders work on removing this from the game soon.",
+          "durationSeconds": 4
+        }
+      ]
+    },
+    {
+      "id": "popup-1795516387743-x7ukm",
+      "label": "Thought 16",
+      "title": "New popup",
+      "body": "Viktor has moved in here and all this gear is gone, but the lazy coders haven't updated the background image of the game yet.",
+      "kind": "thought",
+      "durationSeconds": 7,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2059,
+        2628
+      ],
+      "activationArea": [
+        [
+          1035,
+          1933
+        ],
+        [
+          1709,
+          1827
+        ],
+        [
+          1985,
+          2115
+        ],
+        [
+          1107,
+          2305
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "I have the same amount of monitors at home. ",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Can't have too many monitors.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Monitory.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795516517699-hmasp",
+      "label": "Thought 17",
+      "title": "New popup",
+      "body": "Sir Brag-a-lot..",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 500,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        2059,
+        2628
+      ],
+      "activationArea": [
+        [
+          789,
+          1338
+        ],
+        [
+          966,
+          1325
+        ],
+        [
+          971,
+          1561
+        ],
+        [
+          786,
+          1601
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Pff.. Come back when you've won the Finish Design Award..",
+          "durationSeconds": 4
+        }
+      ]
+    },
+    {
+      "id": "popup-1795516751779-by439",
+      "label": "Thought 18",
+      "title": "New popup",
+      "body": "Greecy.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        3847,
+        1632
+      ],
+      "activationArea": [
+        [
+          4019,
+          1777
+        ],
+        [
+          4314,
+          1694
+        ],
+        [
+          4313,
+          1858
+        ],
+        [
+          4230,
+          1891
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795517827129-qnt9e",
+      "label": "Thought 19",
+      "title": "New popup",
+      "body": "Books of various colours.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5088,
+        1795
+      ],
+      "activationArea": [
+        [
+          5065,
+          1594
+        ],
+        [
+          5339,
+          1587
+        ],
+        [
+          5346,
+          1722
+        ],
+        [
+          5068,
+          1804
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "A number of books. Colours may differ.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "To colour a book, or not to colour a book. Colour book.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "'The coder' uses the British spelling of the word colour, because there are at least two british people working in the studio, who could get upset by a different spelling. ",
+          "durationSeconds": 9
+        },
+        {
+          "body": "A gradient of colours. Almost like a sunset. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "I wish it was ok to judge a book by its cover. Couver?",
+          "durationSeconds": 5
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Red book, yellow book, orange book. hmm.. orange.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "A wide spectrum of coloured books.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "What is a book without a colour?",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795518232456-5ri1s",
+      "label": "Thought 20",
+      "title": "New popup",
+      "body": "Someone can't make up their mind. ",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5390,
+        2155
+      ],
+      "activationArea": [
+        [
+          5633,
+          1782
+        ],
+        [
+          5995,
+          1875
+        ],
+        [
+          6049,
+          2182
+        ],
+        [
+          5574,
+          2051
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "This is the most coats I've ever seen on a hanger.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "So many coats.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Do you know what this hanger need? .. Another  coat!",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Good thing someone put a hat on this hanger, otherwise you could get the idea that someone had too many coats.",
+          "durationSeconds": 7
+        },
+        {
+          "body": "Patterny.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795527468209-5vkdp",
+      "label": "Thought 21",
+      "title": "New popup",
+      "body": "Aaahh.. aaah... ACHOOO!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5377,
+        1059
+      ],
+      "activationArea": [
+        [
+          5032,
+          691
+        ],
+        [
+          5447,
+          612
+        ],
+        [
+          5452,
+          945
+        ],
+        [
+          5034,
+          1016
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "All these ideas I could steal.. and they had to make this into a pixelgame using a tiny font..",
+          "durationSeconds": 6
+        },
+        {
+          "body": "Is this made of... cork? ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "This would make a great trampoline.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Boing! Boing!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Hey, theres a letter from the queen here.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "- Flour\n- Eggs\n- Toilet paper\n- Guaccamole (the chunky kind)",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795527904955-ho9o9",
+      "label": "Thought 22",
+      "title": "New popup",
+      "body": "Beep bop!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5424,
+        1091
+      ],
+      "activationArea": [
+        [
+          5121,
+          1060
+        ],
+        [
+          5370,
+          1083
+        ],
+        [
+          5429,
+          1188
+        ],
+        [
+          5165,
+          1255
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Blip blip bwop.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Loading...",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Please wait..",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Processing request..",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Razzle dazzle",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Bzzz.. Wrrrhh.. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795528959367-hj2f6",
+      "label": "Thought 23",
+      "title": "New popup",
+      "body": "I could sit down just for a minute...",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        6349,
+        2515
+      ],
+      "activationArea": [
+        [
+          6501,
+          2333
+        ],
+        [
+          6973,
+          2502
+        ],
+        [
+          6627,
+          2657
+        ],
+        [
+          6338,
+          2569
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "If I sit down I will never get up..",
+          "durationSeconds": 4
+        },
+        {
+          "body": "Noo... I have work to do.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Looks comfy.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Green!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Legs so heavy. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Sit down?  Yes / No ",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795595901933-yjs9k",
+      "label": "Image 1",
+      "title": "New popup",
+      "body": "",
+      "kind": "image",
+      "imagePath": "/assets/images_popup/orange-spotted-creature.png",
+      "interactionDistance": 400,
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        3011,
+        1787
+      ],
+      "activationArea": [
+        [
+          2713,
+          1028
+        ],
+        [
+          3068,
+          969
+        ],
+        [
+          3073,
+          1378
+        ],
+        [
+          2727,
+          1477
+        ]
+      ],
+      "options": []
+    },
+    {
+      "id": "popup-1795597916534-v441e",
+      "label": "Thought 24",
+      "title": "New popup",
+      "body": "That's the biggest fan I've seen today.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 250,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4290,
+        2170
+      ],
+      "activationArea": [
+        [
+          6310,
+          2071
+        ],
+        [
+          6407,
+          2068
+        ],
+        [
+          6428,
+          2201
+        ],
+        [
+          6307,
+          2198
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Look at it go!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "This fan blows big time.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Gusty.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795598103342-s0cc1",
+      "label": "Thought 25",
+      "title": "New popup",
+      "body": "I have a sudden urge for ice cream cake.",
+      "kind": "thought",
+      "durationSeconds": 4,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5014,
+        2382
+      ],
+      "activationArea": [
+        [
+          4880,
+          2379
+        ],
+        [
+          5386,
+          2202
+        ],
+        [
+          5384,
+          2443
+        ],
+        [
+          4892,
+          2509
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795599230094-7qjp0",
+      "label": "Thought 26",
+      "title": "New popup",
+      "body": "Heja Norge!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5625,
+        1370
+      ],
+      "activationArea": [
+        [
+          5069,
+          1458
+        ],
+        [
+          5431,
+          1372
+        ],
+        [
+          5660,
+          1454
+        ],
+        [
+          5274,
+          1555
+        ]
+      ],
+      "options": [],
+      "additionalMessages": []
+    },
+    {
+      "id": "popup-1795600646893-1w426",
+      "label": "Thought 27",
+      "title": "New popup",
+      "body": "Spinny!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        3912,
+        1516
+      ],
+      "activationArea": [
+        [
+          4062,
+          1476
+        ],
+        [
+          4172,
+          1463
+        ],
+        [
+          4219,
+          1345
+        ],
+        [
+          4333,
+          1368
+        ],
+        [
+          4295,
+          1594
+        ],
+        [
+          4175,
+          1634
+        ],
+        [
+          4054,
+          1570
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Precisely three hundred and sixty degrees. ",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
         }
       ]
     }
