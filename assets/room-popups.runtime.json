@@ -177,6 +177,10 @@
         {
           "body": "",
           "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
         }
       ]
     },
@@ -479,6 +483,10 @@
         {
           "body": "Too small for me.",
           "durationSeconds": 3
+        },
+        {
+          "body": "Rubbery",
+          "durationSeconds": 3
         }
       ]
     },
@@ -486,7 +494,7 @@
       "id": "popup-1795512081605-1eq5n",
       "label": "Thought 7",
       "title": "New popup",
-      "body": "not six seven",
+      "body": "not sixty seven",
       "kind": "thought",
       "durationSeconds": 3,
       "interactionDistance": 150,
@@ -790,6 +798,14 @@
         [
           6433,
           1727
+        ],
+        [
+          6658,
+          1637
+        ],
+        [
+          6869,
+          1708
         ],
         [
           6664,
@@ -1162,6 +1178,10 @@
       ],
       "options": [],
       "additionalMessages": [
+        {
+          "body": "",
+          "durationSeconds": 3
+        },
         {
           "body": "",
           "durationSeconds": 3
@@ -1561,9 +1581,9 @@
       "id": "popup-1795597916534-v441e",
       "label": "Thought 24",
       "title": "New popup",
-      "body": "That's the biggest fan I've seen today.",
+      "body": "Wow, this is the biggest fan I've seen today.",
       "kind": "thought",
-      "durationSeconds": 3,
+      "durationSeconds": 4,
       "interactionDistance": 250,
       "color": "#d9ff38",
       "optionLayout": "boxes",
@@ -1602,7 +1622,7 @@
           "durationSeconds": 3
         },
         {
-          "body": "This fan blows big time.",
+          "body": "This fan blows my mind!",
           "durationSeconds": 3
         },
         {
@@ -1610,7 +1630,7 @@
           "durationSeconds": 3
         },
         {
-          "body": "",
+          "body": "Huge fan!",
           "durationSeconds": 3
         }
       ]
@@ -1683,8 +1703,8 @@
       ],
       "activationArea": [
         [
-          5069,
-          1458
+          5087,
+          1465
         ],
         [
           5431,
@@ -1761,6 +1781,546 @@
         {
           "body": "",
           "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795618399894-spds9",
+      "label": "Thought 28",
+      "title": "New popup",
+      "body": "I have at least twice as many monitors at home.",
+      "kind": "thought",
+      "durationSeconds": 4,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4967,
+        2902
+      ],
+      "activationArea": [
+        [
+          4353,
+          2666
+        ],
+        [
+          4817,
+          2494
+        ],
+        [
+          4879,
+          2605
+        ],
+        [
+          4995,
+          2784
+        ],
+        [
+          4480,
+          2977
+        ],
+        [
+          4417,
+          2930
+        ],
+        [
+          4402,
+          2792
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795620785683-qolic",
+      "label": "Thought 29",
+      "title": "New popup",
+      "body": "I rather eat cheese than say 'cheese'.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5248,
+        2807
+      ],
+      "activationArea": [
+        [
+          5078,
+          2563
+        ],
+        [
+          5185,
+          2563
+        ],
+        [
+          5192,
+          2651
+        ],
+        [
+          5078,
+          2639
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Point-n-clicky",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Cool lens, shootin' from the hip much?",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Megapixels and stuff.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Cheese please.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795680051467-twqdt",
+      "label": "Thought 30",
+      "title": "New popup",
+      "body": "Hello sir. ",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 250,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5027,
+        1818
+      ],
+      "activationArea": [
+        [
+          4958,
+          1343
+        ],
+        [
+          5058,
+          1343
+        ],
+        [
+          5063,
+          1438
+        ],
+        [
+          4957,
+          1457
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "How's it hangin'?",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795680141154-pbc3i",
+      "label": "Thought 31",
+      "title": "New popup",
+      "body": "It look.. like a sprayer.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5320,
+        1952
+      ],
+      "activationArea": [
+        [
+          5522,
+          1888
+        ],
+        [
+          5589,
+          1903
+        ],
+        [
+          5569,
+          2018
+        ],
+        [
+          5507,
+          2003
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "I bet it's living on a sprayer.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "That's not a big sprayer.. I'd say a little sprayer.",
+          "durationSeconds": 4
+        },
+        {
+          "body": "A man is the spray of his truths.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "A lion doesn't spray on mice.",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795680714029-yiy4a",
+      "label": "Thought 32",
+      "title": "New popup",
+      "body": "A school of stools.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        6188,
+        1458
+      ],
+      "activationArea": [
+        [
+          6373,
+          1323
+        ],
+        [
+          6663,
+          1322
+        ],
+        [
+          6663,
+          1615
+        ],
+        [
+          6380,
+          1637
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "A colony of chairs",
+          "durationSeconds": 3
+        },
+        {
+          "body": "A flock of furniture.. for sitting.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "These chairs are up to something..",
+          "durationSeconds": 3
+        },
+        {
+          "body": "A group of chairs in union. This can't be good.",
+          "durationSeconds": 4
+        }
+      ]
+    },
+    {
+      "id": "popup-1795682058831-doyx0",
+      "label": "Thought 33",
+      "title": "New popup",
+      "body": "Woody!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        6188,
+        1458
+      ],
+      "activationArea": [
+        [
+          6099,
+          1211
+        ],
+        [
+          6404,
+          1292
+        ],
+        [
+          6056,
+          1459
+        ],
+        [
+          5737,
+          1349
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795683452415-v2qb3",
+      "label": "Thought 34",
+      "title": "New popup",
+      "body": "Retro.",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        4611,
+        3075
+      ],
+      "activationArea": [
+        [
+          4328,
+          3052
+        ],
+        [
+          4405,
+          3036
+        ],
+        [
+          4527,
+          3096
+        ],
+        [
+          4538,
+          3329
+        ],
+        [
+          4478,
+          3349
+        ],
+        [
+          4325,
+          3282
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Full of CPU, GPU and possibly other Us.",
+          "durationSeconds": 3
+        },
+        {
+          "body": "Hey there, processing anything?",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795683728060-bnou4",
+      "label": "Thought 35",
+      "title": "New popup",
+      "body": "There is a link to some traveling influencer here.. ",
+      "kind": "thought",
+      "durationSeconds": 4,
+      "interactionDistance": 400,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        5614,
+        1059
+      ],
+      "activationArea": [
+        [
+          5794,
+          546
+        ],
+        [
+          6075,
+          593
+        ],
+        [
+          6068,
+          740
+        ],
+        [
+          5780,
+          719
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Tibbe.. that's not a real name, is it?",
+          "durationSeconds": 3
+        }
+      ]
+    },
+    {
+      "id": "popup-1795684243537-wi491",
+      "label": "Thought 36",
+      "title": "New popup",
+      "body": "What if this is a portal to another dimension..",
+      "kind": "thought",
+      "durationSeconds": 4,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        8245,
+        2455
+      ],
+      "activationArea": [
+        [
+          8407,
+          2433
+        ],
+        [
+          8549,
+          2445
+        ],
+        [
+          8568,
+          2647
+        ],
+        [
+          8407,
+          2592
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "I should throw something in here and se if it's a portal to another dimension.",
+          "durationSeconds": 5
+        },
+        {
+          "body": "If this is a portal to another dimension, I wonder where it leads.",
+          "durationSeconds": 5
+        }
+      ]
+    },
+    {
+      "id": "popup-1795684352880-fyh4i",
+      "label": "Thought 37",
+      "title": "New popup",
+      "body": "Jaaaaars!",
+      "kind": "thought",
+      "durationSeconds": 3,
+      "interactionDistance": 150,
+      "color": "#d9ff38",
+      "optionLayout": "boxes",
+      "approvalLabel": "Approve",
+      "fontSizes": {
+        "title": 17,
+        "body": 16,
+        "options": 15
+      },
+      "position": [
+        8892,
+        3128
+      ],
+      "activationArea": [
+        [
+          8261,
+          2640
+        ],
+        [
+          8816,
+          2767
+        ],
+        [
+          8787,
+          3012
+        ],
+        [
+          8248,
+          2846
+        ],
+        [
+          8261,
+          2710
+        ]
+      ],
+      "options": [],
+      "additionalMessages": [
+        {
+          "body": "Mugs of grog!",
+          "durationSeconds": 3
+        },
+        {
+          "body": "I wonder if whatever is inside the jars can melt an iron bar..",
+          "durationSeconds": 5
+        },
+        {
+          "body": "I see glue.. but I don't see any rubber.",
+          "durationSeconds": 4
         }
       ]
     }
